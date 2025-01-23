@@ -22,13 +22,6 @@ This repository contains the code and analysis for predicting forest cover types
 - Python 3.10
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/unsupervised-forest-cover-prediction.git
-   cd unsupervised-forest-cover-prediction
-
 ## Contributors
 
 - Franciszek Latała
