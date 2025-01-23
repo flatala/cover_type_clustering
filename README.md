@@ -28,3 +28,9 @@ This repository contains the code and analysis for predicting forest cover types
    ```bash
    git clone https://github.com/yourusername/unsupervised-forest-cover-prediction.git
    cd unsupervised-forest-cover-prediction
+
+## Contributors
+
+- Franciszek Latała
+- Henry Page
+- David Sulu
